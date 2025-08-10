@@ -7,6 +7,10 @@
 - 📫 How to reach me: sanchitgrover27@gmail.com
 - ⚡ Fun fact: *I have communicated 6 Research papers(2 are getting published soon)*
 
+##  About Me
+
+I am a B.Tech graduate in AI & Data Science, passionate about Machine Learning, Deep Learning, and Full-Stack Development. I am skilled in Python, Java, SQL, and web technologies such as HTML, CSS, and JavaScript. My academic journey included research projects on Brain Tumor Detection and Alzheimer’s Disease Classification, where I explored advanced deep learning models. Currently, I am expanding my expertise in the MERN stack and java development, building end-to-end web applications. I aspire to merge my research background with software development to create impactful, real-world solutions. Outside of tech, I am a cat enthusiast and an occasional poet.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanchit-grover-714490216) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zany_sanchii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanchitgrover27@gmail.com) 
