@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Front end & Back end Projects**
 - 🤔 I’m looking for help with **Technology & Personal Development**
 - 📫 How to reach me: sanchitgrover27@gmail.com
-- ⚡ Fun fact: *I have communicated 6 Research papers(2 are getting published soon)*
+- ⚡ Fun fact: *I have worked on 6+ Research papers*
 
 ##  About Me
 
