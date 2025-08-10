@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋  [![](https://visitcount.itsvg.in/api?id=sanchit2701&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I'll worked on **Machine Learning Projects**
 - 🌱 I’m currently learning **Full Stack Development**
